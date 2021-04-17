@@ -1,7 +1,7 @@
 /*
-	Author:			Dylan Pogue
+	Author:			Jaylen Gresham
 	Assignment:		Semester Project
-	Date:			04/02/2021
+	Date:			04/17/21
 	Purpose:		Stylesheet
 */
 
@@ -21,17 +21,17 @@ header {
     background-color: #FFC08C;
 }
 
-img.floatRight {
+.floatRight {
 	display: block;
 	float: right;
 	margin: 0 15px;
-	height: 150px;
+	height: 150px
 }
 
 p {
     width: 900px;
     margin: auto;
-    text-align: center;
+    text-align: left;
     
 }
 
